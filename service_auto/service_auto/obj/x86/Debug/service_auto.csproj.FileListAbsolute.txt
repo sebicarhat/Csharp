@@ -1,0 +1,32 @@
+C:\Users\Sebi\documents\visual studio 2010\Projects\service_auto\service_auto\bin\Debug\service_auto.exe.config
+C:\Users\Sebi\documents\visual studio 2010\Projects\service_auto\service_auto\bin\Debug\Database1.mdf
+C:\Users\Sebi\documents\visual studio 2010\Projects\service_auto\service_auto\bin\Debug\Database1_log.ldf
+C:\Users\Sebi\documents\visual studio 2010\Projects\service_auto\service_auto\bin\Debug\service_auto.exe
+C:\Users\Sebi\documents\visual studio 2010\Projects\service_auto\service_auto\bin\Debug\service_auto.pdb
+C:\Users\Sebi\documents\visual studio 2010\Projects\service_auto\service_auto\obj\x86\Debug\service_auto.adauga.resources
+C:\Users\Sebi\documents\visual studio 2010\Projects\service_auto\service_auto\obj\x86\Debug\service_auto.Form1.resources
+C:\Users\Sebi\documents\visual studio 2010\Projects\service_auto\service_auto\obj\x86\Debug\service_auto.Properties.Resources.resources
+C:\Users\Sebi\documents\visual studio 2010\Projects\service_auto\service_auto\obj\x86\Debug\service_auto.csproj.GenerateResource.Cache
+C:\Users\Sebi\documents\visual studio 2010\Projects\service_auto\service_auto\obj\x86\Debug\service_auto.exe
+C:\Users\Sebi\documents\visual studio 2010\Projects\service_auto\service_auto\obj\x86\Debug\service_auto.pdb
+C:\Users\Sebi\documents\visual studio 2010\Projects\service_auto\service_auto\obj\x86\Debug\service_auto.client_noucs.resources
+C:\Users\Sebi\documents\visual studio 2010\Projects\service_auto\service_auto\obj\x86\Debug\service_auto.fisa_noua.resources
+C:\Users\Sebi\documents\visual studio 2010\Projects\service_auto\service_auto\obj\x86\Debug\service_auto.istoric.resources
+C:\Users\Sebi\documents\visual studio 2010\Projects\service_auto\service_auto\obj\x86\Debug\service_auto.fisa_deschisa.resources
+C:\Users\Sebi\documents\visual studio 2010\Projects\service_auto\service_auto\obj\x86\Debug\service_auto.csprojResolveAssemblyReference.cache
+E:\c#\service_auto\service_auto\bin\Debug\service_auto.exe.config
+E:\c#\service_auto\service_auto\obj\x86\Debug\service_auto.exe
+E:\c#\service_auto\service_auto\obj\x86\Debug\service_auto.pdb
+E:\c#\service_auto\service_auto\bin\Debug\Database1.mdf
+E:\c#\service_auto\service_auto\bin\Debug\Database1_log.ldf
+E:\c#\service_auto\service_auto\bin\Debug\service_auto.exe
+E:\c#\service_auto\service_auto\bin\Debug\service_auto.pdb
+E:\c#\service_auto\service_auto\obj\x86\Debug\service_auto.csprojResolveAssemblyReference.cache
+E:\c#\service_auto\service_auto\obj\x86\Debug\service_auto.adauga.resources
+E:\c#\service_auto\service_auto\obj\x86\Debug\service_auto.client_noucs.resources
+E:\c#\service_auto\service_auto\obj\x86\Debug\service_auto.fisa_deschisa.resources
+E:\c#\service_auto\service_auto\obj\x86\Debug\service_auto.fisa_noua.resources
+E:\c#\service_auto\service_auto\obj\x86\Debug\service_auto.Form1.resources
+E:\c#\service_auto\service_auto\obj\x86\Debug\service_auto.istoric.resources
+E:\c#\service_auto\service_auto\obj\x86\Debug\service_auto.Properties.Resources.resources
+E:\c#\service_auto\service_auto\obj\x86\Debug\service_auto.csproj.GenerateResource.Cache

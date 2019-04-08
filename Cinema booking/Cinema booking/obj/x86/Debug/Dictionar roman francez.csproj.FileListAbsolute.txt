@@ -1,0 +1,90 @@
+c:\users\sebi\documents\visual studio 2010\Projects\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Adaugareinbaza.resources
+c:\users\sebi\documents\visual studio 2010\Projects\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Form1.resources
+c:\users\sebi\documents\visual studio 2010\Projects\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Properties.Resources.resources
+c:\users\sebi\documents\visual studio 2010\Projects\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar roman francez.csproj.GenerateResource.Cache
+c:\users\sebi\documents\visual studio 2010\Projects\Dictionar roman francez\Dictionar roman francez\bin\Debug\Database1.mdf
+c:\users\sebi\documents\visual studio 2010\Projects\Dictionar roman francez\Dictionar roman francez\bin\Debug\Database1_log.ldf
+c:\users\sebi\documents\visual studio 2010\Projects\Dictionar roman francez\Dictionar roman francez\bin\Debug\Dictionar roman francez.exe.config
+c:\users\sebi\documents\visual studio 2010\Projects\Dictionar roman francez\Dictionar roman francez\bin\Debug\Dictionar roman francez.exe
+c:\users\sebi\documents\visual studio 2010\Projects\Dictionar roman francez\Dictionar roman francez\bin\Debug\Dictionar roman francez.pdb
+c:\users\sebi\documents\visual studio 2010\Projects\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Baza.resources
+c:\users\sebi\documents\visual studio 2010\Projects\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar roman francez.exe
+c:\users\sebi\documents\visual studio 2010\Projects\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar roman francez.pdb
+C:\Users\Sebi\Documents\Visual Studio 2010\Projects\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar roman francez.csprojResolveAssemblyReference.cache
+C:\Users\Sebi\Documents\Visual Studio 2010\Projects\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Autentificare.resources
+D:\C#\Dictionar roman francez\Dictionar roman francez\bin\Debug\Dictionar roman francez.exe.config
+D:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar roman francez.exe
+D:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar roman francez.pdb
+D:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Adaugareinbaza.resources
+D:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Autentificare.resources
+D:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Baza.resources
+D:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Form1.resources
+D:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Properties.Resources.resources
+D:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Schimbare.resources
+D:\C#\Dictionar roman francez\Dictionar roman francez\bin\Debug\Database1.mdf
+D:\C#\Dictionar roman francez\Dictionar roman francez\bin\Debug\Database1_log.ldf
+D:\C#\Dictionar roman francez\Dictionar roman francez\bin\Debug\Dictionar roman francez.exe
+D:\C#\Dictionar roman francez\Dictionar roman francez\bin\Debug\Dictionar roman francez.pdb
+D:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Usernou.resources
+D:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.bazausers.resources
+E:\C#\Dictionar roman francez\Dictionar roman francez\bin\Debug\Dictionar roman francez.exe.config
+E:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar roman francez.exe
+E:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar roman francez.pdb
+E:\C#\Dictionar roman francez\Dictionar roman francez\bin\Debug\Database1.mdf
+E:\C#\Dictionar roman francez\Dictionar roman francez\bin\Debug\Database1_log.ldf
+E:\C#\Dictionar roman francez\Dictionar roman francez\bin\Debug\Dictionar roman francez.exe
+E:\C#\Dictionar roman francez\Dictionar roman francez\bin\Debug\Dictionar roman francez.pdb
+E:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Adaugareinbaza.resources
+E:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Autentificare.resources
+E:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Baza.resources
+E:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.bazausers.resources
+E:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Form1.resources
+E:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Properties.Resources.resources
+E:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Schimbare.resources
+E:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Usernou.resources
+E:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar roman francez.csproj.GenerateResource.Cache
+E:\C#\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar roman francez.csprojResolveAssemblyReference.cache
+E:\Dictionar roman francez\Dictionar roman francez\bin\Debug\Dictionar roman francez.exe.config
+E:\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar roman francez.exe
+E:\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar roman francez.pdb
+E:\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar roman francez.csprojResolveAssemblyReference.cache
+E:\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Adaugareinbaza.resources
+E:\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Autentificare.resources
+E:\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Baza.resources
+E:\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.bazausers.resources
+E:\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Form1.resources
+E:\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Properties.Resources.resources
+E:\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Schimbare.resources
+E:\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Usernou.resources
+E:\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar roman francez.csproj.GenerateResource.Cache
+E:\Dictionar roman francez\Dictionar roman francez\bin\Debug\Database1.mdf
+E:\Dictionar roman francez\Dictionar roman francez\bin\Debug\Database1_log.ldf
+E:\Dictionar roman francez\Dictionar roman francez\bin\Debug\Dictionar roman francez.exe
+E:\Dictionar roman francez\Dictionar roman francez\bin\Debug\Dictionar roman francez.pdb
+E:\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.cauta.resources
+E:\Dictionar roman francez\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.rezerva.resources
+E:\C#\cinema\Dictionar roman francez\bin\Debug\Dictionar roman francez.exe.config
+E:\C#\cinema\Dictionar roman francez\obj\x86\Debug\Dictionar roman francez.exe
+E:\C#\cinema\Dictionar roman francez\obj\x86\Debug\Dictionar roman francez.pdb
+E:\C#\cinema\Dictionar roman francez\bin\Debug\Database1.mdf
+E:\C#\cinema\Dictionar roman francez\bin\Debug\Database1_log.ldf
+E:\C#\cinema\Dictionar roman francez\bin\Debug\Dictionar roman francez.exe
+E:\C#\cinema\Dictionar roman francez\bin\Debug\Dictionar roman francez.pdb
+E:\C#\cinema\Dictionar roman francez\obj\x86\Debug\Dictionar roman francez.csprojResolveAssemblyReference.cache
+E:\C#\cinema\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Adaugareinbaza.resources
+E:\C#\cinema\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Autentificare.resources
+E:\C#\cinema\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Baza.resources
+E:\C#\cinema\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.bazausers.resources
+E:\C#\cinema\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.cauta.resources
+E:\C#\cinema\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Form1.resources
+E:\C#\cinema\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Properties.Resources.resources
+E:\C#\cinema\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.rezerva.resources
+E:\C#\cinema\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.sala1.resources
+E:\C#\cinema\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Schimbare.resources
+E:\C#\cinema\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.Usernou.resources
+E:\C#\cinema\Dictionar roman francez\obj\x86\Debug\Dictionar roman francez.csproj.GenerateResource.Cache
+E:\C#\cinema\Dictionar roman francez\obj\x86\Debug\Dictionar_roman_francez.sala2.resources
+E:\C#\cinema\Dictionar roman francez\bin\Debug\Cinema booking.exe.config

@@ -1,0 +1,89 @@
+E:\C#\cinema\Dictionar roman francez\bin\Debug\Cinema booking.exe.config
+E:\C#\cinema\Dictionar roman francez\bin\Debug\Database1.mdf
+E:\C#\cinema\Dictionar roman francez\bin\Debug\Database1_log.ldf
+E:\C#\cinema\Dictionar roman francez\bin\Debug\Cinema booking.exe
+E:\C#\cinema\Dictionar roman francez\bin\Debug\Cinema booking.pdb
+E:\C#\cinema\Dictionar roman francez\obj\x86\Debug\Cinema booking.csprojResolveAssemblyReference.cache
+E:\C#\cinema\Dictionar roman francez\obj\x86\Debug\Cinema booking.csproj.GenerateResource.Cache
+E:\C#\cinema\Dictionar roman francez\obj\x86\Debug\Cinema booking.exe
+E:\C#\cinema\Dictionar roman francez\obj\x86\Debug\Cinema booking.pdb
+E:\c#\cinema\Dictionar roman francez\obj\x86\Debug\Cinema_booking.Properties.Resources.resources
+E:\c#\cinema\Dictionar roman francez\obj\x86\Debug\Cinema_booking.bazausers.resources
+E:\c#\cinema\Dictionar roman francez\obj\x86\Debug\Cinema_booking.Adaugareinbaza.resources
+E:\c#\cinema\Dictionar roman francez\obj\x86\Debug\Cinema_booking.astazi.resources
+E:\c#\cinema\Dictionar roman francez\obj\x86\Debug\Cinema_booking.Autentificare.resources
+E:\c#\cinema\Dictionar roman francez\obj\x86\Debug\Cinema_booking.Baza.resources
+E:\c#\cinema\Dictionar roman francez\obj\x86\Debug\Cinema_booking.cauta.resources
+E:\c#\cinema\Dictionar roman francez\obj\x86\Debug\Cinema_booking.Form1.resources
+E:\c#\cinema\Dictionar roman francez\obj\x86\Debug\Cinema_booking.rezerva.resources
+E:\c#\cinema\Dictionar roman francez\obj\x86\Debug\Cinema_booking.sala1.resources
+E:\c#\cinema\Dictionar roman francez\obj\x86\Debug\Cinema_booking.sala2.resources
+E:\c#\cinema\Dictionar roman francez\obj\x86\Debug\Cinema_booking.Schimbare.resources
+E:\c#\cinema\Dictionar roman francez\obj\x86\Debug\Cinema_booking.Usernou.resources
+E:\c#\cinema\Cinema booking\bin\Debug\Cinema booking.exe.config
+E:\c#\cinema\Cinema booking\obj\x86\Debug\Cinema booking.exe
+E:\c#\cinema\Cinema booking\obj\x86\Debug\Cinema booking.pdb
+E:\c#\cinema\Cinema booking\bin\Debug\Database1.mdf
+E:\c#\cinema\Cinema booking\bin\Debug\Database1_log.ldf
+E:\c#\cinema\Cinema booking\bin\Debug\Cinema booking.exe
+E:\c#\cinema\Cinema booking\bin\Debug\Cinema booking.pdb
+E:\c#\cinema\Cinema booking\obj\x86\Debug\Cinema booking.csprojResolveAssemblyReference.cache
+E:\c#\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.Adaugareinbaza.resources
+E:\c#\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.astazi.resources
+E:\c#\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.Autentificare.resources
+E:\c#\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.Baza.resources
+E:\c#\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.bazausers.resources
+E:\c#\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.cauta.resources
+E:\c#\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.Form1.resources
+E:\c#\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.Properties.Resources.resources
+E:\c#\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.rezerva.resources
+E:\c#\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.sala1.resources
+E:\c#\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.sala2.resources
+E:\c#\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.Schimbare.resources
+E:\c#\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.Usernou.resources
+E:\c#\cinema\Cinema booking\obj\x86\Debug\Cinema booking.csproj.GenerateResource.Cache
+C:\Users\Sebi\Desktop\cinema\Cinema booking\bin\Debug\Cinema booking.exe.config
+C:\Users\Sebi\Desktop\cinema\Cinema booking\obj\x86\Debug\Cinema booking.exe
+C:\Users\Sebi\Desktop\cinema\Cinema booking\obj\x86\Debug\Cinema booking.pdb
+C:\Users\Sebi\Desktop\cinema\Cinema booking\bin\Debug\Database1.mdf
+C:\Users\Sebi\Desktop\cinema\Cinema booking\bin\Debug\Database1_log.ldf
+C:\Users\Sebi\Desktop\cinema\Cinema booking\bin\Debug\Cinema booking.exe
+C:\Users\Sebi\Desktop\cinema\Cinema booking\bin\Debug\Cinema booking.pdb
+C:\Users\Sebi\Desktop\cinema\Cinema booking\obj\x86\Debug\Cinema booking.csprojResolveAssemblyReference.cache
+C:\Users\Sebi\Desktop\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.Adaugareinbaza.resources
+C:\Users\Sebi\Desktop\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.Autentificare.resources
+C:\Users\Sebi\Desktop\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.Baza.resources
+C:\Users\Sebi\Desktop\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.bazausers.resources
+C:\Users\Sebi\Desktop\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.Form1.resources
+C:\Users\Sebi\Desktop\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.programeaza.resources
+C:\Users\Sebi\Desktop\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.Properties.Resources.resources
+C:\Users\Sebi\Desktop\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.rezerva.resources
+C:\Users\Sebi\Desktop\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.sala1.resources
+C:\Users\Sebi\Desktop\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.sala2.resources
+C:\Users\Sebi\Desktop\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.Schimbare.resources
+C:\Users\Sebi\Desktop\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.Usernou.resources
+C:\Users\Sebi\Desktop\cinema\Cinema booking\obj\x86\Debug\Cinema booking.csproj.GenerateResource.Cache
+C:\Users\Sebi\Desktop\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.adauga.resources
+C:\Users\Sebi\Documents\cinema\Cinema booking\bin\Debug\Cinema booking.exe.config
+C:\Users\Sebi\Documents\cinema\Cinema booking\obj\x86\Debug\Cinema booking.exe
+C:\Users\Sebi\Documents\cinema\Cinema booking\obj\x86\Debug\Cinema booking.pdb
+C:\Users\Sebi\Documents\cinema\Cinema booking\bin\Debug\Database1.mdf
+C:\Users\Sebi\Documents\cinema\Cinema booking\bin\Debug\Database1_log.ldf
+C:\Users\Sebi\Documents\cinema\Cinema booking\bin\Debug\Cinema booking.exe
+C:\Users\Sebi\Documents\cinema\Cinema booking\bin\Debug\Cinema booking.pdb
+C:\Users\Sebi\Documents\cinema\Cinema booking\obj\x86\Debug\Cinema booking.csprojResolveAssemblyReference.cache
+C:\Users\Sebi\Documents\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.adauga.resources
+C:\Users\Sebi\Documents\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.Adaugareinbaza.resources
+C:\Users\Sebi\Documents\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.Autentificare.resources
+C:\Users\Sebi\Documents\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.Baza.resources
+C:\Users\Sebi\Documents\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.bazausers.resources
+C:\Users\Sebi\Documents\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.Form1.resources
+C:\Users\Sebi\Documents\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.programeaza.resources
+C:\Users\Sebi\Documents\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.Properties.Resources.resources
+C:\Users\Sebi\Documents\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.rezerva.resources
+C:\Users\Sebi\Documents\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.sala1.resources
+C:\Users\Sebi\Documents\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.sala2.resources
+C:\Users\Sebi\Documents\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.Schimbare.resources
+C:\Users\Sebi\Documents\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.Usernou.resources
+C:\Users\Sebi\Documents\cinema\Cinema booking\obj\x86\Debug\Cinema booking.csproj.GenerateResource.Cache
+C:\Users\Sebi\Documents\cinema\Cinema booking\obj\x86\Debug\Cinema_booking.BazaProgramari.resources

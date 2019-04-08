@@ -1,0 +1,30 @@
+c:\users\sebi\documents\visual studio 2010\Projects\video capture\video capture\bin\Debug\video capture.exe
+c:\users\sebi\documents\visual studio 2010\Projects\video capture\video capture\bin\Debug\video capture.pdb
+c:\users\sebi\documents\visual studio 2010\Projects\video capture\video capture\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\sebi\documents\visual studio 2010\Projects\video capture\video capture\bin\Debug\AForge.Video.dll
+c:\users\sebi\documents\visual studio 2010\Projects\video capture\video capture\bin\Debug\AForge.dll
+c:\users\sebi\documents\visual studio 2010\Projects\video capture\video capture\bin\Debug\AForge.Video.xml
+c:\users\sebi\documents\visual studio 2010\Projects\video capture\video capture\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\sebi\documents\visual studio 2010\Projects\video capture\video capture\bin\Debug\AForge.xml
+c:\users\sebi\documents\visual studio 2010\Projects\video capture\video capture\obj\x86\Debug\video capture.csprojResolveAssemblyReference.cache
+c:\users\sebi\documents\visual studio 2010\Projects\video capture\video capture\obj\x86\Debug\video_capture.Form1.resources
+c:\users\sebi\documents\visual studio 2010\Projects\video capture\video capture\obj\x86\Debug\video_capture.Properties.Resources.resources
+c:\users\sebi\documents\visual studio 2010\Projects\video capture\video capture\obj\x86\Debug\video capture.csproj.GenerateResource.Cache
+c:\users\sebi\documents\visual studio 2010\Projects\video capture\video capture\obj\x86\Debug\video capture.exe
+c:\users\sebi\documents\visual studio 2010\Projects\video capture\video capture\obj\x86\Debug\video capture.pdb
+c:\users\sebi\documents\visual studio 2010\Projects\video capture\video capture\obj\x86\Debug\video_capture.camera.resources
+E:\c#\video capture\video capture\obj\x86\Debug\video capture.exe
+E:\c#\video capture\video capture\obj\x86\Debug\video capture.pdb
+E:\c#\video capture\video capture\bin\Debug\video capture.exe
+E:\c#\video capture\video capture\bin\Debug\video capture.pdb
+E:\c#\video capture\video capture\bin\Debug\AForge.Video.DirectShow.dll
+E:\c#\video capture\video capture\bin\Debug\AForge.Video.dll
+E:\c#\video capture\video capture\bin\Debug\AForge.dll
+E:\c#\video capture\video capture\bin\Debug\AForge.Video.xml
+E:\c#\video capture\video capture\bin\Debug\AForge.Video.DirectShow.xml
+E:\c#\video capture\video capture\bin\Debug\AForge.xml
+E:\c#\video capture\video capture\obj\x86\Debug\video capture.csprojResolveAssemblyReference.cache
+E:\c#\video capture\video capture\obj\x86\Debug\video_capture.camera.resources
+E:\c#\video capture\video capture\obj\x86\Debug\video_capture.Form1.resources
+E:\c#\video capture\video capture\obj\x86\Debug\video_capture.Properties.Resources.resources
+E:\c#\video capture\video capture\obj\x86\Debug\video capture.csproj.GenerateResource.Cache

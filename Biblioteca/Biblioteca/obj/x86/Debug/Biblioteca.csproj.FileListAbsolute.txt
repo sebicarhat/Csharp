@@ -1,0 +1,72 @@
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.cautarecarte.resources
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.Properties.Resources.resources
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.returnarecarte.resources
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.exe
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.pdb
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.adaugarecarte.resources
+C:\Users\Sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\bin\Debug\baza.mdf
+C:\Users\Sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\bin\Debug\baza_log.ldf
+C:\Users\Sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.form1.resources
+C:\Users\Sebi\Documents\Visual Studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.listacarti.resources
+C:\Users\Sebi\Documents\Visual Studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.adaugarecititor.resources
+C:\Users\Sebi\Documents\Visual Studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.listacititori.resources
+C:\Users\Sebi\Documents\Visual Studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.imprumutcarte.resources
+C:\Users\Sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.cartiimprumutate.resources
+C:\Users\Sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.restante.resources
+C:\Users\Sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.setari.resources
+C:\Users\Sebi\Documents\Visual Studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.cautarecititor.resources
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.exe
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.pdb
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\bin\Debug\baza.mdf
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\bin\Debug\baza_log.ldf
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.adaugarecarte.resources
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.adaugarecititor.resources
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.cartiimprumutate.resources
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.cautarecarte.resources
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.cautarecititor.resources
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.Form1.resources
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.imprumutcarte.resources
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.listacarti.resources
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.listacititori.resources
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.restante.resources
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.returnarecarte.resources
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.setari.resources
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sebi\Desktop\Biblioteca\Biblioteca\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sebi\Documents\Visual Studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sebi\Documents\Visual Studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+E:\C#\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.exe
+E:\C#\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.pdb
+E:\C#\Biblioteca\Biblioteca\bin\Debug\baza.mdf
+E:\C#\Biblioteca\Biblioteca\bin\Debug\baza_log.ldf
+E:\C#\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+E:\C#\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+E:\C#\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+E:\C#\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.adaugarecarte.resources
+E:\C#\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.adaugarecititor.resources
+E:\C#\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.cartiimprumutate.resources
+E:\C#\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.cautarecarte.resources
+E:\C#\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.cautarecititor.resources
+E:\C#\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.Form1.resources
+E:\C#\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.imprumutcarte.resources
+E:\C#\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.listacarti.resources
+E:\C#\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.listacititori.resources
+E:\C#\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.Properties.Resources.resources
+E:\C#\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.restante.resources
+E:\C#\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.returnarecarte.resources
+E:\C#\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.setari.resources
+E:\C#\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.csproj.GenerateResource.Cache

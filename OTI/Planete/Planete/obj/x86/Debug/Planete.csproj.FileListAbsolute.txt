@@ -1,0 +1,27 @@
+c:\users\sebi\documents\visual studio 2010\Projects\Planete\Planete\bin\Debug\Planete.exe.config
+c:\users\sebi\documents\visual studio 2010\Projects\Planete\Planete\bin\Debug\Planete.exe
+c:\users\sebi\documents\visual studio 2010\Projects\Planete\Planete\bin\Debug\Planete.pdb
+c:\users\sebi\documents\visual studio 2010\Projects\Planete\Planete\obj\x86\Debug\Planete.csprojResolveAssemblyReference.cache
+c:\users\sebi\documents\visual studio 2010\Projects\Planete\Planete\obj\x86\Debug\Planete.Autentificare.resources
+c:\users\sebi\documents\visual studio 2010\Projects\Planete\Planete\obj\x86\Debug\Planete.Operatii.resources
+c:\users\sebi\documents\visual studio 2010\Projects\Planete\Planete\obj\x86\Debug\Planete.Properties.Resources.resources
+c:\users\sebi\documents\visual studio 2010\Projects\Planete\Planete\obj\x86\Debug\Planete.csproj.GenerateResource.Cache
+c:\users\sebi\documents\visual studio 2010\Projects\Planete\Planete\obj\x86\Debug\Planete.exe
+c:\users\sebi\documents\visual studio 2010\Projects\Planete\Planete\obj\x86\Debug\Planete.pdb
+C:\Users\Sebi\documents\visual studio 2010\Projects\Planete\Planete\bin\Debug\DBSistem1.mdf
+C:\Users\Sebi\documents\visual studio 2010\Projects\Planete\Planete\bin\Debug\DBSistem1_log.ldf
+E:\C#\Planete\Planete\bin\Debug\Planete.exe.config
+E:\C#\Planete\Planete\obj\x86\Debug\Planete.exe
+E:\C#\Planete\Planete\obj\x86\Debug\Planete.pdb
+E:\C#\Planete\Planete\bin\Debug\DBSistem1.mdf
+E:\C#\Planete\Planete\bin\Debug\DBSistem1_log.ldf
+E:\C#\Planete\Planete\bin\Debug\Planete.exe
+E:\C#\Planete\Planete\bin\Debug\Planete.pdb
+E:\C#\Planete\Planete\obj\x86\Debug\Planete.csprojResolveAssemblyReference.cache
+E:\C#\Planete\Planete\obj\x86\Debug\Planete.Autentificare.resources
+E:\C#\Planete\Planete\obj\x86\Debug\Planete.Operatii.resources
+E:\C#\Planete\Planete\obj\x86\Debug\Planete.Properties.Resources.resources
+E:\C#\Planete\Planete\obj\x86\Debug\Planete.csproj.GenerateResource.Cache
+E:\C#\Planete\Planete\obj\x86\Debug\Planete.Invitat.resources
+E:\C#\Planete\Planete\obj\x86\Debug\Planete.Administrare.resources
+E:\c#\Planete\Planete\obj\x86\Debug\Planete.administrarec.resources

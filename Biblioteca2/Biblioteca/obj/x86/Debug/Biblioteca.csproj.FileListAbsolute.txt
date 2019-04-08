@@ -1,0 +1,26 @@
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\bin\Debug\Database1.mdf
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\bin\Debug\Database1_log.ldf
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.Autentificare.resources
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.Form1.resources
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.Properties.Resources.resources
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.csproj.GenerateResource.Cache
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.exe
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.pdb
+c:\users\sebi\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.Adaugare.resources
+C:\Users\Sebi\Documents\Visual Studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+E:\c#\Biblioteca2\Biblioteca\bin\Debug\Biblioteca.exe.config
+E:\c#\Biblioteca2\Biblioteca\obj\x86\Debug\Biblioteca.exe
+E:\c#\Biblioteca2\Biblioteca\obj\x86\Debug\Biblioteca.pdb
+E:\c#\Biblioteca2\Biblioteca\bin\Debug\Database1.mdf
+E:\c#\Biblioteca2\Biblioteca\bin\Debug\Database1_log.ldf
+E:\c#\Biblioteca2\Biblioteca\bin\Debug\Biblioteca.exe
+E:\c#\Biblioteca2\Biblioteca\bin\Debug\Biblioteca.pdb
+E:\c#\Biblioteca2\Biblioteca\obj\x86\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+E:\c#\Biblioteca2\Biblioteca\obj\x86\Debug\Biblioteca.Adaugare.resources
+E:\c#\Biblioteca2\Biblioteca\obj\x86\Debug\Biblioteca.Autentificare.resources
+E:\c#\Biblioteca2\Biblioteca\obj\x86\Debug\Biblioteca.Form1.resources
+E:\c#\Biblioteca2\Biblioteca\obj\x86\Debug\Biblioteca.Properties.Resources.resources
+E:\c#\Biblioteca2\Biblioteca\obj\x86\Debug\Biblioteca.csproj.GenerateResource.Cache

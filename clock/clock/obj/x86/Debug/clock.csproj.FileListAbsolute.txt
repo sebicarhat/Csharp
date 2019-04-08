@@ -1,0 +1,34 @@
+c:\users\sebi\documents\visual studio 2010\Projects\clock\clock\bin\Debug\clock.exe
+c:\users\sebi\documents\visual studio 2010\Projects\clock\clock\bin\Debug\clock.pdb
+c:\users\sebi\documents\visual studio 2010\Projects\clock\clock\obj\x86\Debug\clock.clock.resources
+c:\users\sebi\documents\visual studio 2010\Projects\clock\clock\obj\x86\Debug\clock.Form1.resources
+c:\users\sebi\documents\visual studio 2010\Projects\clock\clock\obj\x86\Debug\clock.Properties.Resources.resources
+c:\users\sebi\documents\visual studio 2010\Projects\clock\clock\obj\x86\Debug\clock.csproj.GenerateResource.Cache
+c:\users\sebi\documents\visual studio 2010\Projects\clock\clock\obj\x86\Debug\clock.exe
+c:\users\sebi\documents\visual studio 2010\Projects\clock\clock\obj\x86\Debug\clock.pdb
+C:\Users\Sebi\Desktop\clock\clock\obj\x86\Debug\clock.exe
+C:\Users\Sebi\Desktop\clock\clock\obj\x86\Debug\clock.pdb
+C:\Users\Sebi\Desktop\clock\clock\bin\Debug\clock.exe
+C:\Users\Sebi\Desktop\clock\clock\bin\Debug\clock.pdb
+C:\Users\Sebi\Desktop\clock\clock\obj\x86\Debug\clock.clock.resources
+C:\Users\Sebi\Desktop\clock\clock\obj\x86\Debug\clock.Form1.resources
+C:\Users\Sebi\Desktop\clock\clock\obj\x86\Debug\clock.Properties.Resources.resources
+C:\Users\Sebi\Desktop\clock\clock\obj\x86\Debug\clock.csproj.GenerateResource.Cache
+E:\c#\clock\clock\obj\x86\Debug\clock.exe
+E:\c#\clock\clock\obj\x86\Debug\clock.pdb
+E:\c#\clock\clock\bin\Debug\clock.exe
+E:\c#\clock\clock\bin\Debug\clock.pdb
+E:\c#\clock\clock\obj\x86\Debug\clock.clock.resources
+E:\c#\clock\clock\obj\x86\Debug\clock.Form1.resources
+E:\c#\clock\clock\obj\x86\Debug\clock.Properties.Resources.resources
+E:\c#\clock\clock\obj\x86\Debug\clock.csproj.GenerateResource.Cache
+E:\c#\clock\clock\bin\Debug\clock.exe.config
+E:\c#\clock\clock\obj\x86\Debug\clock.Setari.resources
+C:\Users\Sebi\Desktop\clock\clock\bin\Debug\clock.exe.config
+C:\Users\Sebi\Desktop\clock\clock\obj\x86\Debug\clock.Setari.resources
+C:\Users\Sebi\Desktop\clock\clock\bin\Debug\clock.exe.manifest
+C:\Users\Sebi\Desktop\clock\clock\bin\Debug\clock.application
+C:\Users\Sebi\Desktop\clock\clock\obj\x86\Debug\clock.TrustInfo.xml
+C:\Users\Sebi\Desktop\clock\clock\obj\x86\Debug\clock.exe.manifest
+C:\Users\Sebi\Desktop\clock\clock\obj\x86\Debug\clock.application
+E:\c#\clock\clock\obj\x86\Debug\clock.csprojResolveAssemblyReference.cache

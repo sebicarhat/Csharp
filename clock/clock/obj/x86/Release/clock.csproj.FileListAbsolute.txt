@@ -1,0 +1,38 @@
+C:\Users\Sebi\Documents\Visual Studio 2010\Projects\clock\clock\bin\Release\clock.exe
+C:\Users\Sebi\Documents\Visual Studio 2010\Projects\clock\clock\bin\Release\clock.pdb
+C:\Users\Sebi\Documents\Visual Studio 2010\Projects\clock\clock\obj\x86\Release\clock.clock.resources
+C:\Users\Sebi\Documents\Visual Studio 2010\Projects\clock\clock\obj\x86\Release\clock.Form1.resources
+C:\Users\Sebi\Documents\Visual Studio 2010\Projects\clock\clock\obj\x86\Release\clock.Properties.Resources.resources
+C:\Users\Sebi\Documents\Visual Studio 2010\Projects\clock\clock\obj\x86\Release\clock.csproj.GenerateResource.Cache
+C:\Users\Sebi\Documents\Visual Studio 2010\Projects\clock\clock\obj\x86\Release\clock.exe
+C:\Users\Sebi\Documents\Visual Studio 2010\Projects\clock\clock\obj\x86\Release\clock.pdb
+E:\c#\clock\clock\bin\Release\clock.exe.config
+E:\c#\clock\clock\bin\Release\clock.exe
+E:\c#\clock\clock\bin\Release\clock.pdb
+E:\c#\clock\clock\obj\x86\Release\clock.clock.resources
+E:\c#\clock\clock\obj\x86\Release\clock.Form1.resources
+E:\c#\clock\clock\obj\x86\Release\clock.Properties.Resources.resources
+E:\c#\clock\clock\obj\x86\Release\clock.csproj.GenerateResource.Cache
+E:\c#\clock\clock\obj\x86\Release\clock.exe
+E:\c#\clock\clock\obj\x86\Release\clock.pdb
+E:\c#\clock\clock\obj\x86\Release\clock.Setari.resources
+E:\c#\clock\clock\bin\Release\clock.exe.manifest
+E:\c#\clock\clock\bin\Release\clock.application
+E:\c#\clock\clock\obj\x86\Release\clock.TrustInfo.xml
+E:\c#\clock\clock\obj\x86\Release\clock.exe.manifest
+E:\c#\clock\clock\obj\x86\Release\clock.application
+C:\Users\Sebi\Desktop\clock\clock\bin\Release\clock.exe.config
+C:\Users\Sebi\Desktop\clock\clock\bin\Release\clock.exe.manifest
+C:\Users\Sebi\Desktop\clock\clock\bin\Release\clock.application
+C:\Users\Sebi\Desktop\clock\clock\bin\Release\clock.exe
+C:\Users\Sebi\Desktop\clock\clock\bin\Release\clock.pdb
+C:\Users\Sebi\Desktop\clock\clock\obj\x86\Release\clock.clock.resources
+C:\Users\Sebi\Desktop\clock\clock\obj\x86\Release\clock.Form1.resources
+C:\Users\Sebi\Desktop\clock\clock\obj\x86\Release\clock.Properties.Resources.resources
+C:\Users\Sebi\Desktop\clock\clock\obj\x86\Release\clock.Setari.resources
+C:\Users\Sebi\Desktop\clock\clock\obj\x86\Release\clock.csproj.GenerateResource.Cache
+C:\Users\Sebi\Desktop\clock\clock\obj\x86\Release\clock.TrustInfo.xml
+C:\Users\Sebi\Desktop\clock\clock\obj\x86\Release\clock.exe.manifest
+C:\Users\Sebi\Desktop\clock\clock\obj\x86\Release\clock.application
+C:\Users\Sebi\Desktop\clock\clock\obj\x86\Release\clock.exe
+C:\Users\Sebi\Desktop\clock\clock\obj\x86\Release\clock.pdb
